@@ -1,6 +1,6 @@
 # NASSAFY
 
-<img src="https://user-images.githubusercontent.com/74912130/223696623-b5108e27-c57c-462b-a748-0c6dc9a17543.png" align="right">  <img src="https://user-images.githubusercontent.com/74912130/223695945-ce427da1-e94d-40b1-9b53-714fc843f793.svg" align="right"> 
+<img src="https://user-images.githubusercontent.com/74912130/223696623-b5108e27-c57c-462b-a748-0c6dc9a17543.png" align="right">
 
 <br>
 
