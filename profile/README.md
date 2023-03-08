@@ -10,4 +10,3 @@ _좌측부터 닐 채성, 마이클 기훈, 에드윈 버즈 창영_
 
 ## "Failure is not an option."
 _"실패라는 선택지는 없다"_
-![nasa-logo-web-rgb_1_0]()
